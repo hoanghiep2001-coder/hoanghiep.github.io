@@ -25,4 +25,4 @@ window.onscroll = () => {
     }
 }
 
-// open section destination
+// tablet & mobile NavBars
